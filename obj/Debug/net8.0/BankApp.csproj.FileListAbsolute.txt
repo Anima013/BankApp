@@ -1,0 +1,42 @@
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/obj/Debug/net8.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/obj/Debug/net8.0/BankApp.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/bin/Debug/net8.0/BankApp
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/bin/Debug/net8.0/BankApp.deps.json
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/bin/Debug/net8.0/BankApp.runtimeconfig.json
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/bin/Debug/net8.0/BankApp.dll
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/bin/Debug/net8.0/BankApp.pdb
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/obj/Debug/net8.0/BankApp.dll
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/obj/Debug/net8.0/refint/BankApp.dll
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/obj/Debug/net8.0/BankApp.pdb
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/obj/Debug/net8.0/BankApp.genruntimeconfig.cache
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/BankApp/obj/Debug/net8.0/ref/BankApp.dll
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp.deps.json
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp.runtimeconfig.json
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp.dll
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp.pdb
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.dll
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/refint/BankApp.dll
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.pdb
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.genruntimeconfig.cache
+/Users/macbook/Desktop/UNI/Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/ref/BankApp.dll
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp.deps.json
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp.runtimeconfig.json
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp.dll
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/bin/Debug/net8.0/BankApp.pdb
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.dll
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/refint/BankApp.dll
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.pdb
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/BankApp.genruntimeconfig.cache
+/Users/macbook/Desktop/UNI/VI Semester/OOP_CSharp/Uni_CSharp/HMWRK1_BankApp/obj/Debug/net8.0/ref/BankApp.dll
